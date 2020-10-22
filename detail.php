@@ -49,9 +49,9 @@ $preference->payment_methods = array(
     "installments" => 6
   );
   $preference->back_urls = array(
-    "success" => "http://localhost:8888/mercadopago/success.php",
-    "failure" => "http://localhost:8888/mercadopago/error.php",
-    "pending" => "http://localhost:8888/mercadopago/pendiente.php"
+    "success" => "success.php",
+    "failure" => "error.php",
+    "pending" => "pendiente.php"
 );
 $preference->external_reference = "firbedatomasf@gmail.com";
 
