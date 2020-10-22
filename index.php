@@ -528,7 +528,7 @@
                                                 </span>
                                             </div>
                                         </div>
-                                        <form action="/detail.php" method="get">
+                                        <form action="detail.php" method="get">
                                             <input type="hidden" name="img" value="./assets/003.jpg">
                                             <input type="hidden" name="title" value="Sony Xperia XZ2">
                                             <input type="hidden" name="price" value="10000">
