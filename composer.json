@@ -1,7 +1,9 @@
 {
     "name": "mp-ecommerce-php",
     "type": "project",
-    "require": {},
+    "require": {
+        "alrik11es/cowsayphp": "^1.2"
+    },
     "require-dev": {
         "heroku/heroku-buildpack-php": "*"
     }
